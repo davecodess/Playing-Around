@@ -1,0 +1,30 @@
+body {
+    background-color: #F8F0E3;
+}
+
+.firstdiv {
+    border: solid;
+    color: lightblue;
+    background-color: white;
+    margin: 50px;
+}
+
+.seconddiv {
+    border: solid;
+    color: lightgreen;
+    background-color: white;
+
+}
+
+img {
+    width: 250px;
+    height: 200px;
+}
+
+.title {
+    color: black;
+}
+
+.subtitle {
+    color: lightblue;
+}
